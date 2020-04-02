@@ -1,6 +1,6 @@
 Hello for git for test and study!
-Hello for git from developer!
-Hello for git from developer!
+Hello for git from developer too!
+Hello for git from developer and tester!
 Hello for git from developer!
 Hello for git from developer!Hello for git for test and study!
 
