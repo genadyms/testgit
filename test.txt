@@ -1,1 +1,2 @@
 Hello for git for test and study!
+Hello for git from developer!
